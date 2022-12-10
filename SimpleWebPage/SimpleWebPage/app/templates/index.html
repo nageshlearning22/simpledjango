@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>News</title>
+  {% load static %}
+  <link href="{% static "/css/style.css" %}"  rel="stylesheet" type="text/css">
+  
+</head>
+<body>
+<header>
+  {% load static %}
+  <img src="{% static "/image/mike.png" %}">
+<h1>The News</h1>
+  <align="left"><input type='text' placeholder='Search'>
+     <button type="button">Search</button>
+    <button type="button">Login</button>
+  </align>
+
+
+
+</header>
+
+<div class="topnav">
+    <a class="active" href="index.html">Home</a>
+    <a>Sports</a>
+    <a>Entertainment</a>
+    <a>All Sections</a>
+  </div>
+
+
+
+<div class="row">
+
+<div class="border">
+  <b >Crime</b>
+    <div class="category">
+      <a  class="active" href="crime.html">click here</a>
+      {% load static %}
+      <img src="{% static "/image/crim.jpg" %}">
+    </div>
+
+
+</div>
+
+
+    <div class="border">
+          <b>Breaking News</b>
+            <div class="category">
+
+     <a class="active" href="recentnews.html">click here</a>
+     {% load static %}
+     <img src="{% static "/image/news.png" %}">
+
+    </div>
+
+
+</div>
+
+
+    <div class="border">
+        <b>Weather</b>
+            <div class="category">
+
+      <a href="weather.html">click here</a>
+      {% load static %}
+      <img src="{% static "/image/half_sunny.png" %}">
+    </div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+  <footer><p>Copyright 2019 News</p></footer>
+
+</body>
+</html>
+             
+
+
+
+
