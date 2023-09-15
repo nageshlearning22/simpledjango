@@ -1,0 +1,16 @@
+Dockerise Flask APP
+https://dockerize.io/guides/python-django-guide---> Dockerise django 
+
+Test Flask App
+1) https://circleci.com/blog/testing-flask-framework-with-pytest/   - Testing Flask
+2)https://testdriven.io/blog/flask-pytest/
+3)JSON-
+https://flask.palletsprojects.com/en/2.3.x/testing/
+
+
+Dockerise Django APP
+1)https://dockerize.io/guides/python-django-guide
+
+
+Django Test 
+1) https://realpython.com/testing-in-django-part-1-best-practices-and-examples/
