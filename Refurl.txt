@@ -14,3 +14,36 @@ Dockerise Django APP
 
 Django Test 
 1) https://realpython.com/testing-in-django-part-1-best-practices-and-examples/
+
+
+
+Repositories
+Find a repository…
+recipe-app-api
+nageshlearning22/recipe-app-api
+docker
+nageshlearning22/docker
+gradle
+nageshlearning22/gradle
+k8
+nageshlearning22/k8
+simpledjango
+nageshlearning22/simpledjango
+wingsjune22
+nageshlearning22/wingsjune22
+django2
+nageshlearning22/django2
+django1
+nageshlearning22/django1
+django
+nageshlearning22/django
+mavenproject
+nageshlearning22/mavenproject
+jenkins
+nageshlearning22/jenkins
+ansible
+nageshlearning22/ansible
+mavenadvance
+nageshlearning22/mavenadvance
+mavenjenkins
+nageshlearning22/mavenjenkins
